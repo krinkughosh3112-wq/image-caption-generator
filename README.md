@@ -84,7 +84,7 @@ Input Image
 ##  Sample Predictions
 
 ### Prediction 1 — Dog in Water
-![Dog Prediction](generated_1.png<img width="1395" height="653" alt="generated 1" src="https://github.com/user-attachments/assets/6f40a15a-a589-454b-ae5d-7cb81adaa80d" />![Uploading generated 1.png…]()
+!<img width="1395" height="653" alt="generated 1" src="https://github.com/user-attachments/assets/6f40a15a-a589-454b-ae5d-7cb81adaa80d" />![Uploading generated 1.png…]()
 
 )
 
