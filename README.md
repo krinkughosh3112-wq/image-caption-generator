@@ -72,11 +72,11 @@ Input Image
 ##  Streamlit Application
 
 ### Dashboard — Model Info + Loss Graph
-(<img width="1920" height="908" alt="streamlit dashbord1" src="https://github.com/user-attachments/assets/37c88c7c-a5fa-4d33-8bcd-357046f223be" />
+<img width="1920" height="908" alt="streamlit dashbord1" src="https://github.com/user-attachments/assets/37c88c7c-a5fa-4d33-8bcd-357046f223be" />
 )
 
 ### Caption Generation — Live Demo
-(<img width="1909" height="955" alt="streamlit 2" src="https://github.com/user-attachments/assets/7e825cb7-92a3-4880-a2e0-e59ee5f6409b" />
+<img width="1909" height="955" alt="streamlit 2" src="https://github.com/user-attachments/assets/7e825cb7-92a3-4880-a2e0-e59ee5f6409b" />
 )
 
 >  Uploaded a dog image → Model generated: **"dog is playing in the water"**
