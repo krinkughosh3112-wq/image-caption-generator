@@ -85,7 +85,8 @@ Input Image
 
 ##  Sample Predictions
 
-<img width="1372" height="715" alt="generated 2" src="https://github.com/user-attachments/assets/d8552fa6-020d-4991-a62c-b4413dfca317" />
+<img width="1395" height="653" alt="generated 1" src="https://github.com/user-attachments/assets/c45faf5d-ef23-4da8-98c9-43182d2d79ca" />
+
 
 )
 
