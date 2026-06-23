@@ -72,10 +72,12 @@ Input Image
 ##  Streamlit Application
 
 ### Dashboard — Model Info + Loss Graph
-![Streamlit Dashboard](streamlit_dashbord1.png)
+![Streamlit Dashboard](<img width="1920" height="908" alt="streamlit dashbord1" src="https://github.com/user-attachments/assets/37c88c7c-a5fa-4d33-8bcd-357046f223be" />
+)
 
 ### Caption Generation — Live Demo
-![Caption Generation](streamlit_2.png)
+![Caption Generation](<img width="1909" height="955" alt="streamlit 2" src="https://github.com/user-attachments/assets/7e825cb7-92a3-4880-a2e0-e59ee5f6409b" />
+)
 
 >  Uploaded a dog image → Model generated: **"dog is playing in the water"**
 
@@ -83,8 +85,7 @@ Input Image
 
 ##  Sample Predictions
 
-### Prediction 1 — Dog in Water
-!<img width="1395" height="653" alt="generated 1" src="https://github.com/user-attachments/assets/6f40a15a-a589-454b-ae5d-7cb81adaa80d" />![Uploading generated 1.png…]()
+<img width="1372" height="715" alt="generated 2" src="https://github.com/user-attachments/assets/d8552fa6-020d-4991-a62c-b4413dfca317" />
 
 )
 
@@ -96,8 +97,9 @@ Input Image
 
 ---
 
-### Prediction 2 — People on Beach
-![Beach Prediction](generated_2.png)
+### Prediction 2 
+<img width="1372" height="715" alt="generated 2" src="https://github.com/user-attachments/assets/bc89be43-5982-4f3d-a2d5-46ee27b2e22d" />
+
 
 | Type | Caption |
 |------|---------|
